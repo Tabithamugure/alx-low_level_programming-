@@ -2,7 +2,8 @@
                                                                                                                                  
  /**                                                                                                                             
   * main - Entry point                                                                                                           
-  *                                                                                                                              
+  *            }
+                                                                                                                
   * Description: prints the size of various data type                                                                            
   *                                                                                                                              
   * Return: Always 0 (success)                                                                                                   
