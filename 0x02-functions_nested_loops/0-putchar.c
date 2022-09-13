@@ -4,6 +4,7 @@
  * main - print putchar
  * Return: always 0
  */
+ 
 int main(void)
 {
         _putchar('_');
@@ -14,7 +15,7 @@ int main(void)
         _putchar('h');
         _putchar('a');
         _putchar('r');
-        
+
         return (0);
 
 }
