@@ -1,6 +1,6 @@
 0 - Write a function that concatenates two strings.
 
-1- Write a function that concatenates two strings.
+1 - Write a function that concatenates two strings.
 
 2 - Write a function that copies a string.
 
@@ -13,4 +13,3 @@
 6 - Write a function that capitalizes all words of a string.
 
 7 - Write a function that encodes a string into 1337.
-
