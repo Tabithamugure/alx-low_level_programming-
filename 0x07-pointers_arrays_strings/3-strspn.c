@@ -1,7 +1,7 @@
-#inlude "main.h"
+#include "main.h"
 
 /**
- * _strspn - gets lengthof a prefix substring
+ * _strspn - gets length of a prefix substring
  * @s: string to check
  * @accept: string to check against
  *
@@ -18,5 +18,8 @@ unsigned int _strspn(char *s, char *accept)
 			if (s[i] == accept[j])
 				break;
 		}
-		return (i);
+		if (!accept[j])
+			break;
+	}
+	return (i);
 }
